@@ -2,7 +2,7 @@ repo_name: 2lambda123/delta_hedge
 report_id: e531f40a5e14ec9b3572e67593ec582a
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:31:09+00:00'
+timestamp: '2024-01-05T08:14:02+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: dependabot/pip/numpy-1.22.0
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/delta_hedge
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/delta_hedge
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/delta_hedge/blob/dependabot/pip/numpy-1.22.0/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Sam Chepal
   last_updated_on: 2020-07-08 20:47:34.000000000 Z
